@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @zreberhardt
-- 👀 I’m interested in Front End Development
+Hi I'm Zach Eberhardt
+- 💕😍 I’m Enthralled with Front End Development
 - 🌱 I’m currently learning React, Typescript and Node.js
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I lived in an RV and travelled the US with my wife and two wolves during covid. 
+- 💼You can find my linkedin at [zreberhardt](https://www.linkedin.com/in/zr-eberhardt/)
+
 
 <!---
 zreberhardt/zreberhardt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
