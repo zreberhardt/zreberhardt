@@ -1,5 +1,5 @@
 Hi I'm Zach Eberhardt
-- 💕😍 I’m Enthralled with Front End Development
+- 💕😍 I’m captivated by Front End Development
 - 🌱 I’m currently learning React, Typescript and Node.js
 - 💼You can find my linkedin at [zreberhardt](https://www.linkedin.com/in/zr-eberhardt/)
 
